@@ -1,0 +1,16 @@
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver\GPIO_STM32F10x.c
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver\GPIO_STM32F10x.h
+activetime\gpio_stm32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h
+activetime\gpio_stm32f10x.o: .\RTE\_ActiveTime\RTE_Components.h
+activetime\gpio_stm32f10x.o: ../Drivers/CMSIS/Include/core_cm3.h
+activetime\gpio_stm32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+activetime\gpio_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_version.h
+activetime\gpio_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+activetime\gpio_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h
+activetime\gpio_stm32f10x.o: .\RTE\Device\STM32F103C8\stm32f10x_conf.h
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+activetime\gpio_stm32f10x.o: C:\Users\Vadim\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\StdPeriph_Driver\inc\misc.h
